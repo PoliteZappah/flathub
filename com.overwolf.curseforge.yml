@@ -2,7 +2,6 @@ app-id: com.overwolf.curseforge
 runtime: org.freedesktop.Platform
 runtime-version: '26.08'
 sdk: org.freedesktop.Sdk
-separate-locales: false
 command: curseforge
 base: org.electronjs.Electron2.BaseApp
 base-version: '26.08'
